@@ -2,7 +2,7 @@
 
 A simple Discord bot to play MP3 files in voice channels. The bot can join voice channels, play, stop, and loop music, as well as change its online status.
 
-# **WINDOWS ONLY**
+# **WINDOWS**
 
 ## Features
 
@@ -66,7 +66,7 @@ To ensure that FFmpeg is installed correctly on your system, follow these steps:
 Congratulations! You have successfully installed FFmpeg on your computer.
 
 
-##install Discord.py
+## Installing Discord.py
 
 ```bash
 pip install discord.py
