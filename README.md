@@ -2,7 +2,7 @@
 
 A simple Discord bot to play MP3 files in voice channels. The bot can join voice channels, play, stop, and loop music, as well as change its online status.
 
-# **WINDOWS**
+# **WINDOWS ONLY**
 
 ## Features
 
@@ -70,3 +70,10 @@ Congratulations! You have successfully installed FFmpeg on your computer.
 
 ```bash
 pip install discord.py
+```
+
+## Running the program
+
+```bash
+python MelodyBot.py
+```
