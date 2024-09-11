@@ -2,6 +2,8 @@
 
 A simple Discord bot to play MP3 files in voice channels. The bot can join voice channels, play, stop, and loop music, as well as change its online status.
 
+(You can find the files in releases.)
+
 # **WINDOWS ONLY**
 
 ## Features
