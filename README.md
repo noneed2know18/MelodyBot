@@ -66,7 +66,7 @@ To ensure that FFmpeg is installed correctly on your system, follow these steps:
    - This command should display the installed version of FFmpeg.
 
 Congratulations! You have successfully installed FFmpeg on your computer.
-
+(I DO NOT OWN THE FFmpeg INSTALATION ! check the license)
 
 ## Installing Discord.py
 
